@@ -5,7 +5,7 @@ geoid,county,service,parcels
 05000US19007,Appanoose,,
 05000US19009,Audubon,,
 05000US19011,Benton,https://wfs.schneidercorp.com/arcgis/rest/services/BentonCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/BentonCountyIA_WFS/MapServer/0
-05000US19013,Black Hawk,,
+05000US19013,Black Hawk,https://services5.arcgis.com/ya62ECiavqTkK0wv/arcgis/rest/services,https://services5.arcgis.com/ya62ECiavqTkK0wv/arcgis/rest/services/ParcelData/FeatureServer
 05000US19015,Boone,,
 05000US19017,Bremer,,
 05000US19019,Buchanan,,
