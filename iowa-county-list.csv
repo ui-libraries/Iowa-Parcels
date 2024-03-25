@@ -36,7 +36,7 @@ geoid,county,service,parcels
 05000US19069,Franklin,,
 05000US19071,Fremont,,
 05000US19073,Greene,,
-05000US19075,Grundy,,
+05000US19075,Grundy,https://services7.arcgis.com/gdl6d769M9WXfbgM/arcgis/rest/services,https://services7.arcgis.com/gdl6d769M9WXfbgM/arcgis/rest/services/Grundy_County_Parcels/FeatureServer
 05000US19077,Guthrie,,
 05000US19079,Hamilton,,
 05000US19081,Hancock,,
