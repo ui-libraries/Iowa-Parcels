@@ -68,7 +68,7 @@ geoid,county,service,parcels
 05000US19133,Monona,,
 05000US19135,Monroe,,
 05000US19137,Montgomery,,
-05000US19139,Muscatine,,
+05000US19139,Muscatine,https://magic-gis.com/arcgis/rest/services,https://magic-gis.com/arcgis/rest/services/MAGIC_Landbase/MuscatineParcels/MapServer
 05000US19141,O'Brien,,
 05000US19143,Osceola,https://wfs.schneidercorp.com/arcgis/rest/services/OsceolaCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/OsceolaCountyIA_WFS/MapServer/1
 05000US19145,Page,,
