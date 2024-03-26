@@ -1,4 +1,4 @@
-geoid,county,service,parcels,iowagisdata,iowagisdata_notes
+﻿geoid,county,service,parcels,iowagisdata,iowagisdata_notes
 05000US19001,Adair,https://wfs.schneidercorp.com/arcgis/rest/services/AdairCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/AdairCountyIA_WFS/MapServer/0,,
 05000US19003,Adams,,,,
 05000US19005,Allamakee,,,,
