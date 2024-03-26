@@ -1,2 +1,2 @@
-# Iowa-Parcels
-A running list of tax parcel sources for Iowa counties
+# Iowa Parcel Geospatial Data
+This is a running list of sources of geospatial parcel data for Iowa counties. The linked data are provided "as is" without warranty or any representation of accuracy, timeliness or completeness. The burden or determining accuracy for the appropriateness for use rests solely on the user. Providers make no warranties, express or implied, as to the use of the data. The user acknowledges and accepts the limitations of the data, including the fact that the data are dynamic and in a constant state of maintenance and update.
