@@ -7,20 +7,20 @@ geoid,county,service,parcels
 05000US19011,Benton,https://wfs.schneidercorp.com/arcgis/rest/services/BentonCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/BentonCountyIA_WFS/MapServer/0
 05000US19013,Black Hawk,https://services5.arcgis.com/ya62ECiavqTkK0wv/arcgis/rest/services,https://services5.arcgis.com/ya62ECiavqTkK0wv/arcgis/rest/services/ParcelData/FeatureServer
 05000US19015,Boone,,
-05000US19017,Bremer,,
-05000US19019,Buchanan,,
+05000US19017,Bremer,https://services8.arcgis.com/5fdnasK4g70Ve01j/arcgis/rest/services/Bremer_County_Reference_Map/FeatureServer,https://services8.arcgis.com/5fdnasK4g70Ve01j/ArcGIS/rest/services/Bremer_County_Reference_Map/FeatureServer/8
+05000US19019,Buchanan,https://services2.arcgis.com/tYzMC5F5v21mpREX/arcgis/rest/services,https://services2.arcgis.com/tYzMC5F5v21mpREX/arcgis/rest/services/Parcel_data_all/FeatureServer
 05000US19021,Buena Vista,https://wfs.schneidercorp.com/arcgis/rest/services/BuenaVistaCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/BuenaVistaCountyIA_WFS/MapServer/1
 05000US19023,Butler,https://services.arcgis.com/4YineAQdtmx0tv46/ArcGIS/rest/services/ButlerIAFeatures/FeatureServer,https://services.arcgis.com/4YineAQdtmx0tv46/ArcGIS/rest/services/ButlerIAFeatures/FeatureServer/3
 05000US19025,Calhoun,,
 05000US19027,Carroll,,
 05000US19029,Cass,https://wfs.schneidercorp.com/arcgis/rest/services/CassCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/CassCountyIA_WFS/MapServer/0
-05000US19031,Cedar,,
+05000US19031,Cedar,,https://services.arcgis.com/PFvIQefqmvWD9XbB/ArcGIS/rest/services/Cedar_County_IA_Parcels_and_Muni/FeatureServer/1
 05000US19033,Cerro Gordo,https://wfs.schneidercorp.com/arcgis/rest/services/CerroGordoCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/CerroGordoCountyIA_WFS/MapServer/0
 05000US19035,Cherokee,,
 05000US19037,Chickasaw,https://wfs.schneidercorp.com/arcgis/rest/services/ChickasawCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/ChickasawCountyIA_WFS/MapServer/0
 05000US19039,Clarke,,
 05000US19041,Clay,,
-05000US19043,Clayton,,
+05000US19043,Clayton,,https://services9.arcgis.com/jb7kNQO9B8zwLCAh/ArcGIS/rest/services/Clayton_County_Iowa_Stand_Maps_WFL1/FeatureServer/1
 05000US19045,Clinton,,
 05000US19047,Crawford,https://services3.arcgis.com/uwUOPltmS5vV1WmH/ArcGIS/rest/services/CrawfordIAFeatures/FeatureServer,https://services3.arcgis.com/uwUOPltmS5vV1WmH/ArcGIS/rest/services/CrawfordIAFeatures/FeatureServer/6
 05000US19049,Dallas,https://gis.dallascountyiowa.gov/arcgis/rest/services,https://gis.dallascountyiowa.gov/arcgis/rest/services/Assessor/AssessorData/MapServer/88
@@ -54,7 +54,7 @@ geoid,county,service,parcels
 05000US19105,Jones,,
 05000US19107,Keokuk,,
 05000US19109,Kossuth,https://services.arcgis.com/4YineAQdtmx0tv46/ArcGIS/rest/services/KossuthIAFeatures/FeatureServer,https://services.arcgis.com/4YineAQdtmx0tv46/ArcGIS/rest/services/KossuthIAFeatures/FeatureServer/6
-05000US19111,Lee,,
+05000US19111,Lee,,https://services1.arcgis.com/DI59pGRbGVB0nAAA/ArcGIS/rest/services/PARCELS/FeatureServer
 05000US19113,Linn,https://gis.linncountyiowa.gov/ags/rest/services,https://gis.linncountyiowa.gov/ags/rest/services/RealEstate/mapLandRecords/MapServer/15
 05000US19115,Louisa,https://wfs.schneidercorp.com/arcgis/rest/services/LouisaCountyIA_WFS/MapServer,https://wfs.schneidercorp.com/arcgis/rest/services/LouisaCountyIA_WFS/MapServer/0
 05000US19117,Lucas,,
