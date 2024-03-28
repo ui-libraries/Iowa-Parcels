@@ -107,7 +107,7 @@ This is a running list of sources of geospatial parcel data for Iowa counties. T
 |05000US19195|Worth        |https://wfs.schneidercorp.com/arcgis/rest/services/WorthCountyIA_WFS/MapServer                              |https://wfs.schneidercorp.com/arcgis/rest/services/WorthCountyIA_WFS/MapServer/0                                                                                                                                |                                                                                         |                          |https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer/0/query?where=countyname=%27WORTH%27&returnGeometry=true&f=json&outFields=*        |
 |05000US19197|Wright       |https://wfs.schneidercorp.com/arcgis/rest/services/WrightCountyIA_WFS/MapServer                             |https://wfs.schneidercorp.com/arcgis/rest/services/WrightCountyIA_WFS/MapServer/2                                                                                                                               |                                                                                         |                          |https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer/0/query?where=countyname=%27WRIGHT%27&returnGeometry=true&f=json&outFields=*       |
 
-## How to Add and Filter Data from [the Statewide Parcel Data Server](https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer in QGIS)
+## How to Add and Filter Data from [the Statewide Parcel Data Server](https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer) in QGIS
 
 1. In the "Browser" window at the upper left, right click "ArcGIS REST Servers" and click "New Connection."
 
