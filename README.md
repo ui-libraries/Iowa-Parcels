@@ -1,6 +1,8 @@
 # Iowa Parcel Geospatial Data
 This is a running list of sources of geospatial parcel data for Iowa counties. The linked data are provided "as is" without warranty or any representation of accuracy, timeliness or completeness. The burden or determining accuracy for the appropriateness for use rests solely on the user. Providers make no warranties, express or implied, as to the use of the data. The user acknowledges and accepts the limitations of the data, including the fact that the data are dynamic and in a constant state of maintenance and update.
 
+**Scroll to the bottom of the page to see instructions for using and exporting statewide parcel data with QGIS**
+
 **Make sure to scroll right at the bottom of this list to see all the columns.**
 
 |geoid       |county       |service                                                                                                     |parcels                                                                                                                                                                                                         |iowagisdata                                                                              |iowagisdata_notes         |iowa_hs_em                                                                                                                                               |
@@ -104,3 +106,29 @@ This is a running list of sources of geospatial parcel data for Iowa counties. T
 |05000US19193|Woodbury     |https://maps.wcicc.com:6443/arcgis/rest/services                                                            |https://maps.wcicc.com:6443/arcgis/rest/services/ParcelDataFlex/MapServer/0                                                                                                                                     |                                                                                         |                          |https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer/0/query?where=countyname=%27WOODBURY%27&returnGeometry=true&f=json&outFields=*     |
 |05000US19195|Worth        |https://wfs.schneidercorp.com/arcgis/rest/services/WorthCountyIA_WFS/MapServer                              |https://wfs.schneidercorp.com/arcgis/rest/services/WorthCountyIA_WFS/MapServer/0                                                                                                                                |                                                                                         |                          |https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer/0/query?where=countyname=%27WORTH%27&returnGeometry=true&f=json&outFields=*        |
 |05000US19197|Wright       |https://wfs.schneidercorp.com/arcgis/rest/services/WrightCountyIA_WFS/MapServer                             |https://wfs.schneidercorp.com/arcgis/rest/services/WrightCountyIA_WFS/MapServer/2                                                                                                                               |                                                                                         |                          |https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer/0/query?where=countyname=%27WRIGHT%27&returnGeometry=true&f=json&outFields=*       |
+
+## How to Add and Filter Data from https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer in QGIS
+
+1. In the "Browser" window at the upper left, right click "ArcGIS REST Servers" and click "New Connection."
+
+![Adding a Service](images/add-service.png)
+
+2. Make a name for your connection and add the url to the service in the respective boxes. Click OK.
+
+![Connecting](images/connect.png)
+
+3. Scroll down to your connected service in the "Browser" window. Click the dropdown arrow and drag and drop "parcels" into the map window.
+
+![Add Data](images/add.png)
+
+4. As the data loads in the map window, right click on "parcels" in the "Layers" window. Click "Filter" in the dropdown menu.
+
+![Filter](images/filter.png)
+
+5. In the Query Builder form that opens, add a code in the following format to filter for your desired county: "countyname" = 'JOHNSON'. The county names are in all caps. Click "OK."
+
+![Filtration Code](images/filter-code.png)
+
+6. You should see the parcels for that county appear in the map window. If not, right click the layer and select "Zoom to layer(s)." To export, you can right click the layer, click "Export," and click "Save features as" as usual.
+
+![Export Data](images/export.png)
