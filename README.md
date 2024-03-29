@@ -3,7 +3,7 @@ This is a running list of sources of geospatial parcel data for Iowa counties. T
 
 **[How to filter and export statewide parcel data with QGIS](#how-to-add-and-filter-data-from-the-statewide-parcel-data-server-in-qgis)**
 
-**[Make sure to scroll right at the bottom of this list to see all the columns](#scroll-right-to-see-more-columns)**
+**[Make sure to scroll right at the bottom of this list to see all the columns](#↑-scroll-right-to-see-more-columns)**
 
 |geoid       |county       |service                                                                                                     |parcels                                                                                                                                                                                                         |iowagisdata                                                                              |iowagisdata_notes         |iowa_hs_em                                                                                                                                               |
 |------------|-------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
