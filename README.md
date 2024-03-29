@@ -1,7 +1,7 @@
 # Iowa Parcel Geospatial Data
 This is a running list of sources of geospatial parcel data for Iowa counties. The linked data are provided "as is" without warranty or any representation of accuracy, timeliness or completeness. The burden or determining accuracy for the appropriateness for use rests solely on the user. Providers make no warranties, express or implied, as to the use of the data. The user acknowledges and accepts the limitations of the data, including the fact that the data are dynamic and in a constant state of maintenance and update.
 
-**Scroll to the bottom of the page to see instructions for using and exporting statewide parcel data with QGIS**
+**[How to filter and export statewide parcel data with QGIS](#how-to-add-and-filter-data-from-the-statewide-parcel-data-server-in-qgis)**
 
 **Make sure to scroll right at the bottom of this list to see all the columns.**
 
