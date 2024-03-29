@@ -110,25 +110,26 @@ This is a running list of sources of geospatial parcel data for Iowa counties. T
 ## How to Add and Filter Data from [the Statewide Parcel Data Server](https://eoc.iowa.gov/arcgis/rest/services/Public/parcels_da/MapServer) in QGIS
 
 1. In the "Browser" window at the upper left, right click "ArcGIS REST Servers" and click "New Connection."
-
-![Adding a Service](images/add-service.png)
+   
+   ![Adding a Service](images/add-service.png)
 
 2. Make a name for your connection and add the url to the service in the respective boxes. Click OK.
-
-![Connecting](images/connect.png)
+   
+   ![Connecting](images/connect.png)
 
 3. Scroll down to your connected service in the "Browser" window. Click the dropdown arrow and drag and drop "parcels" into the map window.
-
-![Add Data](images/add.png)
+   
+   ![Add Data](images/add.png)
 
 4. As the data loads in the map window, right click on "parcels" in the "Layers" window. Click "Filter" in the dropdown menu.
-
-![Filter](images/filter.png)
+   
+   ![Filter](images/filter.png)
 
 5. In the Query Builder form that opens, add a code in the following format to filter for your desired county: "countyname" = 'JOHNSON'. The county names are in all caps. Click "OK."
-
-![Filtration Code](images/filter-code.png)
+   
+   ![Filtration Code](images/filter-code.png)
 
 6. You should see the parcels for that county appear in the map window. If not, right click the layer and select "Zoom to layer(s)." To export, you can right click the layer, click "Export," and click "Save features as" as usual.
+   
+   ![Export Data](images/export.png)
 
-![Export Data](images/export.png)
