@@ -128,7 +128,7 @@ This is a running list of sources of geospatial parcel data for Iowa counties. T
    
    ![Filter](images/filter.png)
 
-5. In the Query Builder form that opens, add a code in the following format to filter for your desired county: "countyname" = 'JOHNSON'. The county names are in all caps. Click "OK."
+5. In the Query Builder form that opens, add a code in the following format to filter for your desired county: "COUNTYNAME" = 'JOHNSON'. The county names are in all caps. Click "OK."
    
    ![Filtration Code](images/filter-data.png)
 
